@@ -22,6 +22,11 @@ For this deliverable, MechaCar_mpg.csv file was imported and read, RScript was w
 # Deliverable 2:
 ## Summary Statistics on Suspension Coils
 
+![image](https://user-images.githubusercontent.com/34757498/148337010-8c503483-8530-49b2-a913-3a14c42ba944.png)
+
+And the Total Summary:
+![image](https://user-images.githubusercontent.com/34757498/148337142-9741e70a-44b0-43f8-8231-0b115451e8e7.png)
+
 # Deliverable 3:
 ## T-Tests on Suspension Coils
 We write RScripts for t-test that compares all manufacturing lots, as well as individual lots against:
@@ -29,12 +34,17 @@ We write RScripts for t-test that compares all manufacturing lots, as well as in
 - Median PSI
 - Variance PSI
 - SD PSI
-![image](https://user-images.githubusercontent.com/34757498/148337010-8c503483-8530-49b2-a913-3a14c42ba944.png)
+All Lots:
+![image](https://user-images.githubusercontent.com/34757498/148337829-506de61f-1868-4874-af9c-a60e8961349f.png)
 
-And the Total Summary:
+Lot1:
+![image](https://user-images.githubusercontent.com/34757498/148337998-5444bcae-8245-4a14-a60b-0fc3cac3b532.png)
 
-![image](https://user-images.githubusercontent.com/34757498/148337142-9741e70a-44b0-43f8-8231-0b115451e8e7.png)
+Lot2:
+![image](https://user-images.githubusercontent.com/34757498/148338087-44c3f69b-d77b-4ef4-85ff-5721958f7c27.png)
 
+Lot3:
+![image](https://user-images.githubusercontent.com/34757498/148338209-2500f33f-1624-4c94-b615-21a7df247899.png)
 
 # Deliverable 4:
 ## Study Design: MechaCar vs Competition
