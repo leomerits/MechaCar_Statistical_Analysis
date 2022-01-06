@@ -63,4 +63,5 @@ The metrics in this considerations includes:
 5. Resale value
 6. Maintenance cost
 7. MPG.
+
 As we can see from the analysis, using multiple linear regression to determine which factor has the highest correlation or predictability helps in getting a clearer idear for a better decision.
