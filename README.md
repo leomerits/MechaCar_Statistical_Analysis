@@ -24,6 +24,17 @@ For this deliverable, MechaCar_mpg.csv file was imported and read, RScript was w
 
 # Deliverable 3:
 ## T-Tests on Suspension Coils
+We write RScripts for t-test that compares all manufacturing lots, as well as individual lots against:
+- Mean PSI
+- Median PSI
+- Variance PSI
+- SD PSI
+![image](https://user-images.githubusercontent.com/34757498/148337010-8c503483-8530-49b2-a913-3a14c42ba944.png)
+
+And the Total Summary:
+
+![image](https://user-images.githubusercontent.com/34757498/148337142-9741e70a-44b0-43f8-8231-0b115451e8e7.png)
+
 
 # Deliverable 4:
 ## Study Design: MechaCar vs Competition
