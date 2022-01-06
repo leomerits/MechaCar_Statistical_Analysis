@@ -21,6 +21,7 @@ For this deliverable, MechaCar_mpg.csv file was imported and read, RScript was w
 
 # Deliverable 2:
 ## Summary Statistics on Suspension Coils
+As shown by the visualizations below, the variance of the coils is 62% which is within the 100 PSI variance, however Lot1 and Lot 2 are both within the 100 PSI variance requirement while Lot 3 shows more larger variance both in performance and consistency.
 
 ![image](https://user-images.githubusercontent.com/34757498/148337010-8c503483-8530-49b2-a913-3a14c42ba944.png)
 
