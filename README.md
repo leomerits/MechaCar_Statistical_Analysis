@@ -19,6 +19,26 @@ For this deliverable, MechaCar_mpg.csv file was imported and read, RScript was w
 
 ![image](https://user-images.githubusercontent.com/34757498/148312050-7eeec867-deb9-4cd6-852d-8752c8bfe894.png)
 
-# deliverable 2:
+# Deliverable 2:
 ## Summary Statistics on Suspension Coils
 
+# Deliverable 3:
+## T-Tests on Suspension Coils
+
+# Deliverable 4:
+## Study Design: MechaCar vs Competition
+We were able to usecollected information on MechaCar and its comparable models regarding
+- The competitors's comparable models.
+- Which vehicles to be competing with head to head.
+- Which vehicles will be in the study.
+- What factors are considered relevant?
+
+The metrics in this considerations includes:
+1. Safety features
+2. Current selling price.
+3. Engine type.
+4. Packages
+5. Resale value
+6. Maintenance cost
+7. MPG.
+As we can see from the analysis, using multiple linear regression to determine which factor has the highest correlation or predictability helps in getting a clearer idear for a better decision.
